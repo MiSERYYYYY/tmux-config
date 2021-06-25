@@ -21,3 +21,5 @@ set -g history-limit 50000
 # prevents the pane from being auto renamed
 set -g allow-rename off
 ```
+# zsh autocomplete suggestion
+https://github.com/zsh-users/zsh-autosuggestions
