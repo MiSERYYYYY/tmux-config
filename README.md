@@ -2,9 +2,9 @@
 
 ```
 # Set the control character to Ctrl+Spacebar (instead of Ctrl+B)
-set -g prefix C-space
-unbind-key C-b
-bind-key C-space send-prefix
+# set -g prefix C-space
+# unbind-key C-b
+# bind-key C-space send-prefix
 
 # Set mouse usage to on
 set -g mouse on
